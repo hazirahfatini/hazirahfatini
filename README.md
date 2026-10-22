@@ -1,13 +1,25 @@
-## Hi there 👋
-## Saya Nur Hazirah Fatini
+### Hi there! 👋 I'm Nur Hazirah Fatini
 
-Selamat datang ke profil GitHub saya! Saya sedang dalam perjalanan meneroka dunia pengaturcaraan dan pembangunan perisian. 
-
-- 🔭 Saya sedang belajar tentang: **Asas pengaturcaraan dan kawalan versi (Git & GitHub)**
-- 🌱 Saya sedang mendalami: **Cara membina projek pertama saya**
-- 🎯 Matlamat saya: Menjadi seorang pembangun perisian yang mahir dan berdaya saing.
+Welcome to my GitHub profile! I am currently learning the ropes of programming and exploring the amazing world of version control with Git and GitHub.
 
 ---
+
+### 💻 About Me
+- 🌱 I’m currently learning: **GitHub, Git, and web basics**
+- 🔭 I’m looking to collaborate on: **Beginner-friendly projects**
+- ⚡ Fun fact: I am just starting my tech journey!
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <!-- Tambah badge lain di sini kelak mengikut kemahiran anda -->
+</p>
+
+---
+
 
 
 <!--
